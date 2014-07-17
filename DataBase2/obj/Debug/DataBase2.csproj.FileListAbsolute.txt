@@ -1,0 +1,64 @@
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.exe.config
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.exe
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.pdb
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.csprojResolveAssemblyReference.cache
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\MainWindow.baml
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\MainWindow.g.cs
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\App.g.cs
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2_MarkupCompile.cache
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.g.resources
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Properties.Resources.resources
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.csproj.GenerateResource.Cache
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.exe
+c:\users\ieskj12\documents\visual studio 2012\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.pdb
+C:\Users\khd21\Downloads\DataBase2\DataBase2\bin\Debug\DataBase2.exe.config
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.exe
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.pdb
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.csprojResolveAssemblyReference.cache
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\MainWindow.baml
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\MainWindow.g.cs
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\App.g.cs
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2_MarkupCompile.cache
+C:\Users\khd21\Downloads\DataBase2\DataBase2\bin\Debug\DataBase2.exe
+C:\Users\khd21\Downloads\DataBase2\DataBase2\bin\Debug\DataBase2.pdb
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\TextWindow.baml
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\TextWindow.g.cs
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.g.resources
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.Properties.Resources.resources
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\DataBase2.csproj.GenerateResource.Cache
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\SpeechFigureSelectWindow.baml
+C:\Users\khd21\Downloads\DataBase2\DataBase2\obj\Debug\SpeechFigureSelectWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\bin\Debug\DataBase2.exe.config
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.exe
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.pdb
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\bin\Debug\DataBase2.exe
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\bin\Debug\DataBase2.pdb
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.csprojResolveAssemblyReference.cache
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\MainWindow.baml
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\SpeechFigureSelectWindow.baml
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\TextWindow.baml
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\MainWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\SpeechFigureSelectWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\TextWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\App.g.cs
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2_MarkupCompile.cache
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.g.resources
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.Properties.Resources.resources
+C:\Users\bldjs23\Documents\DataBase2\DataBase2\obj\Debug\DataBase2.csproj.GenerateResource.Cache
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\bin\Debug\DataBase2.exe.config
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.exe
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.pdb
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\bin\Debug\DataBase2.exe
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\bin\Debug\DataBase2.pdb
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.csprojResolveAssemblyReference.cache
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\MainWindow.baml
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\SpeechFigureSelectWindow.baml
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\TextWindow.baml
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\MainWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\SpeechFigureSelectWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\TextWindow.g.cs
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\App.g.cs
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2_MarkupCompile.cache
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.g.resources
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.Properties.Resources.resources
+C:\Users\bldjs23\Documents\DataBase3\DataBase2\obj\Debug\DataBase2.csproj.GenerateResource.Cache
