@@ -13,16 +13,18 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using MahApps.Metro.Controls;
+
 namespace DataBase2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainWindow : MetroWindow//Window
     {
         public MainWindow()
         {
-            InitializeComponent();
+            //InitializeComponent();
             Window textWin = new TextWindow();
             textWin.Show();
             Window figureWin = new SpeechFigureSelectWindow();
